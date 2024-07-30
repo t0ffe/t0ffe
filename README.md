@@ -10,7 +10,7 @@
 📖 Studies
 ---
 
-🌱 I’m currently learning things!  
+🌱 I’m currently coding things!  
 You can take a peek at my 📚[course exercises](https://github.com/stars/t0ffe/lists/course-exercises)  repository list.
 
 🕶️ Business
