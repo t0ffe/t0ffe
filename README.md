@@ -1,16 +1,21 @@
-## Hi there 👋
+🧖 **Tofelius Laakso**  
+💻 Computer Science  
+🏫 University of Helsinki  
+<!--:man_technologist:-->
 
-<!--
-**t0ffe/t0ffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇮 Finnish (native)  
+🇬🇧 English (fluent)  
+🇫🇷 French (advanced)
 
-Here are some ideas to get you started:
+📖 Studies
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning things!  
+You can take a peek at my 📚[course exercises](https://github.com/stars/t0ffe/lists/course-exercises)  repository list.
+
+🕶️ Business
+---
+Open for work! 🏢  
+If you took a look at my repos and something interests, don't hesitate to contact me!  
+I have my CV ready to go! 🗞️  
+(interested in 💻 _IT positions_ starting 📆 _whenever_)
