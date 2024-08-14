@@ -1,7 +1,6 @@
 🧖 **Tofelius Laakso**  
 💻 Computer Science  
 🏫 University of Helsinki  
-<!--:man_technologist:-->
 
 🇫🇮 Finnish (native)  
 🇬🇧 English (fluent)  
@@ -10,12 +9,9 @@
 📖 Studies
 ---
 
-🌱 I’m currently coding things!  
 You can take a peek at my 📚[course exercises](https://github.com/stars/t0ffe/lists/course-exercises)  repository list.
 
 🕶️ Business
 ---
 Open for work! 🏢  
-If you took a look at my repos and something interests, don't hesitate to contact me!  
-I have my CV ready to go! 🗞️  
 (interested in 💻 _IT positions_ starting 📆 _whenever_)
