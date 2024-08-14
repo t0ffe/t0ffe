@@ -9,7 +9,8 @@
 📖 Studies
 ---
 
-You can take a peek at my 📚[course exercises](https://github.com/stars/t0ffe/lists/course-exercises)  repository list.
+You can take a peek at my 📚[course exercises](https://github.com/stars/t0ffe/lists/course-exercises)  repository list.  
+Or my [personal projects](https://github.com/stars/t0ffe/lists/personal-projects).
 
 🕶️ Business
 ---
